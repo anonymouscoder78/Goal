@@ -1,0 +1,11 @@
+@media only screen and (min-width: 768px) {
+    body {
+        background-color: aqua;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    body {
+        background-color: rgb(23, 151, 151);
+    }
+}
